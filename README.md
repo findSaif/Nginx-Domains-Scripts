@@ -2,9 +2,7 @@
  
 ## How to use
 The script accepts one argument domain name. 
- 
-$ sudo chmod +x add_domain.sh
-
-$ sudo ./add_domain.sh example.com
- 
- 
+```Shell
+sudo chmod +x add_domain.sh
+sudo ./add_domain.sh example.com
+```
